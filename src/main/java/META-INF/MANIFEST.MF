@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Main-Class: org.james.GetExceptionRecord
+Class-Path: jackson-annotations-2.11.0.jar hk2-locator-2.4.0-b34.jar jer
+ sey-container-servlet-core-2.22.2.jar jersey-common-2.22.2.jar oraclepk
+ i-19.3.0.0.jar hk2-api-2.4.0-b34.jar jersey-server-2.22.2.jar jersey-co
+ ntainer-servlet-2.22.2.jar jersey-media-jaxb-2.22.2.jar javax.inject-2.
+ 4.0-b34.jar jersey-client-2.22.2.jar ucp-19.3.0.0.jar validation-api-1.
+ 1.0.Final.jar jackson-core-2.11.0.jar spring-core-5.2.3.RELEASE.jar jer
+ sey-entity-filtering-2.22.2.jar spring-webmvc-5.2.3.RELEASE.jar javax.w
+ s.rs-api-2.0.1.jar jackson-databind-2.11.0.jar spring-jcl-5.2.3.RELEASE
+ .jar osdt_cert-19.3.0.0.jar aopalliance-repackaged-2.4.0-b34.jar spring
+ -web-5.2.3.RELEASE.jar spring-beans-5.2.3.RELEASE.jar hk2-utils-2.4.0-b
+ 34.jar jackson-jaxrs-json-provider-2.5.4.jar ons-19.3.0.0.jar osdt_core
+ -19.3.0.0.jar osgi-resource-locator-1.0.1.jar jackson-module-jaxb-annot
+ ations-2.5.4.jar spring-expression-5.2.3.RELEASE.jar simplefan-19.3.0.0
+ .jar spring-tx-5.2.3.RELEASE.jar spring-jdbc-5.2.3.RELEASE.jar mssql-jd
+ bc-8.3.0.jre8-preview.jar javassist-3.18.1-GA.jar jersey-guava-2.22.2.j
+ ar jackson-jaxrs-base-2.5.4.jar spring-aop-5.2.3.RELEASE.jar jersey-med
+ ia-json-jackson-2.22.2.jar javax.annotation-api-1.2.jar ojdbc8-19.3.0.0
+ .jar spring-context-5.2.3.RELEASE.jar
+
